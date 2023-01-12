@@ -11,3 +11,4 @@ COPY . /app
 CMD node server.js
 EXPOSE 6969
 exam over
+done
